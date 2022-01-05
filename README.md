@@ -27,7 +27,7 @@ Nome utente connessione smb
 shareUsername=dominio\utente
 ```
 
-password connessione smb
+Password connessione smb
 
 ```bash
 sharePassword=myPassword
